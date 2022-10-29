@@ -124,7 +124,7 @@
         
     }
     ?>
-    <div class="thaks"><br>
+    <div class="thaks"><br><br><br>
     <p> <h3 >Premimum Charges are : ₹<?php echo $tmpp;?></h3></p><br><br><br>
 </div>
 </body>
